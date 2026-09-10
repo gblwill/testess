@@ -1,0 +1,126 @@
+{
+  "PlayerPermission": {
+    "Sagalixo": {"PlayerTier": 1000},
+    "Fonojonzo": {"PlayerTier": 1000},
+    "iguinh_60": {"PlayerTier": 1000},
+    "zkywss": {"PlayerTier": 1000},
+    "do_nopp": {"PlayerTier": 1000},
+    "I3_NoPrime": {"PlayerTier": 1000},
+    "Felasepic": {"PlayerTier": 1000},
+    "Mittskiim": {"PlayerTier": 750},
+    "juliaywss": {"PlayerTier": 750},
+    "yurythgta": {"PlayerTier": 500},
+    "Dark_shadow3251": {"PlayerTier": 500},
+    "guibrosss": {"PlayerTier": 100},
+    "ZE_GOTINHA893": {"PlayerTier": 100},
+    "xzlimakk": {"PlayerTier": 100},
+    "Gustavo2011353": {"PlayerTier": 10},
+    "Claaraxm": {"PlayerTier": 1}
+  },
+
+  "Character": {
+
+    "Vergil": {
+      "Tier": "Locked",
+      "Permission": [1449978472, 1569341667, 1463532900, 8674166330, 4320964346]
+    },
+
+    "Douma": {
+      "Tier": 5000,
+      "Permission": [1663412321,4005875136,1569341667]
+    },
+    
+    "Madara": {
+      "Tier": "Locked",
+      "Permission": [1449978472, 8674166330]
+    },
+
+    "Sasuke": {
+      "Tier": 100,
+      "Permission": []
+    },
+
+    "Toji": {
+      "Tier" : 1000,
+      "Permission" : [2579583119, 1449978472, 1663412321]
+    },
+
+    "Johnny" : {
+      "Tier": 1000,
+      "Permission": []
+    },
+
+    "DioOverHeaven": {
+      "Tier": 1000,
+      "Permission": [3337736146, 2579583119, 8674166330, 724152595, 8263713625, 205979288]
+    },
+
+       "Baki": {
+      "Tier": 1000,
+      "Permission": [8674166330]
+    },
+
+   "Kokushibo": {
+      "Tier": 1000,
+      "Permission": [5111464960, 1663412321]
+    },
+
+    "Armin": {
+      "Tier": "Locked",
+      "Permission": [2579583119, 3337736146, 1449978472, 1663412321, 1569341667]
+    },
+
+     "Diavolo": {
+      "Tier": 1000,
+      "Permission": [5111464960]
+    },
+    
+      "Giorno": {
+      "Tier": 1000,
+      "Permission": [1663412321]
+    },
+
+     "Dio": {
+      "Tier": 1000,
+      "Permission": [1663412321,1569341667]
+    },
+    
+    "Sukuna": {
+      "Tier": 100,
+      "Permission": [1704200864, 4005875136]
+    },
+
+
+    "GojoTeen": {
+      "Tier": 500,
+      "Permission": [1463532900]
+    },
+
+      "CosmicGarou": {
+      "Tier": 500,
+      "Permission": [205979288, 8263713625]
+    },
+
+
+    "Jotaro": {
+      "Tier": 100,
+      "Permission": [1463532900]
+    },
+
+
+    "Rimuru": {
+      "Tier": 10,
+      "Permission": [1968730428, 8674166330, 2636678929, 10104310812, 3017921552, 3447517113]
+    },
+
+    "Eren": {
+      "Tier": 1,
+      "Permission": []
+    },
+
+    "Meliodas": {
+      "Tier": 1,
+      "Permission": [3434085675, 8674166330, 3421576235, 4005875136, 6046496733]
+    }
+  }
+}
